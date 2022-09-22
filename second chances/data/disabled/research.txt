@@ -1,0 +1,12 @@
+BEGIN Research
+	Name		SecondChances
+	Type		Ability
+	Requires	Planning
+	Admin		Warden
+	Cost		0
+	Time		15
+	X		990
+	Y		660
+	NonWideX	660
+	NonWideY	660
+END

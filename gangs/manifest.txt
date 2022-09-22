@@ -1,0 +1,10 @@
+
+Name                 "Planning mod - Gangs"  
+Description          "This mod is designed to work with the parent planning mod, which should have been downloaded by Steam when you installed this mod."  
+IsTranslation        false  
+URL					 <https://steamcommunity.com/sharedfiles/filedetails/?id=2120075438>
+Date				 02/06/2022
+Author               jake01756  
+FileID                 
+SteamAuthor          A76561198221778020  
+Version              3.000000

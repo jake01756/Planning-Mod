@@ -1,0 +1,27 @@
+BEGIN Room
+    Name		VegPlan
+    BEGIN Requirement Type Outdoor END
+    BEGIN Requirement Type MinimumSize x 5 y 5 END
+END
+
+BEGIN Room
+    Name		FruitPlan
+    BEGIN Requirement Type Outdoor END
+    BEGIN Requirement Type MinimumSize x 5 y 5 END
+END
+
+BEGIN Room
+    Name		FarmingFieldPlan
+    BEGIN Requirement Type Outdoor END
+    BEGIN Requirement Type MinimumSize x 8 y 8 END
+END
+
+BEGIN Room
+    Name		PantryPlan
+END
+
+BEGIN Room
+    Name		FlowerPlan
+    BEGIN Requirement Type Outdoor END
+    BEGIN Requirement Type MinimumSize x 5 y 5 END
+END

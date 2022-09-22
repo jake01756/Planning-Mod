@@ -1,0 +1,28 @@
+BEGIN Room  
+    Name	TattooRemovalRoomPlan
+    BEGIN Requirement Type MinimumSize  x 3  y 4    END
+    BEGIN LikelyObject  Id      CoatStand   END
+	BEGIN LikelyObject  Id      Plant       END
+	Properties			RequiresEnhancedGangs
+	VersionAdded	7000
+END
+
+BEGIN Room  
+    Name	FightClubRoomPlan
+    BEGIN Requirement Type MinimumSize  x 5  y 5    END
+    BEGIN LikelyObject  Id      Chair   			END
+	BEGIN LikelyObject  Id      PunchBag			END
+	BEGIN LikelyObject  Id      TrainingDummy		END
+	BEGIN LikelyObject  Id      WaterCooler			END
+	BEGIN LikelyObject  Id      Boombox				END
+	VersionAdded	7000
+	Properties			RequiresEnhancedGangs
+END
+
+BEGIN Room       
+    Name                 TheCagePlan
+	Properties           RequiresSector
+    BEGIN LikelyObject	Id		FenceGateGuard	END
+    BEGIN LikelyObject	Id		SecureDoor		END
+	Properties			RequiresEnhancedGangs
+END

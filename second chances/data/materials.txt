@@ -1,0 +1,14 @@
+BEGIN Room
+    Name		RestaurantPlan
+    BEGIN Requirement Type MinimumSize x 5 y 5 END
+END
+
+BEGIN Room
+    Name		MeetingPlan
+    BEGIN Requirement Type MinimumSize x 5 y 5 END
+END
+
+BEGIN Room
+    Name		BakeryPlan
+    BEGIN Requirement Type MinimumSize x 5 y 5 END
+END

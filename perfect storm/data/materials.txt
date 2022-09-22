@@ -1,0 +1,13 @@
+
+
+BEGIN Room
+    Name		TrainRoomPlan
+	VersionAdded        4000
+    BEGIN Requirement Type MinimumSize x 4 y 5 END
+END
+
+BEGIN Room
+    Name		WeatherCenterPlan
+	VersionAdded        4000
+    BEGIN Requirement Type MinimumSize x 3 y 2 END
+END

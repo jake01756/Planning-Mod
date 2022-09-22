@@ -1,0 +1,12 @@
+BEGIN Research
+	Name		CI
+	Type		Ability
+	Requires	Planning
+	Admin		Warden
+	Cost		0
+	Time		15
+	X		750
+	Y		660
+	NonWideX	0
+	NonWideY	40
+END

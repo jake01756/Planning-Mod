@@ -1,0 +1,12 @@
+BEGIN Research
+	Name		GoingGreen
+	Type		Ability
+	Requires	Planning
+	Admin		Warden
+	Cost		0
+	Time		15
+	X		870
+	Y		660
+	NonWideX	660
+	NonWideY	40
+END

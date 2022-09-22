@@ -1,0 +1,12 @@
+BEGIN prisoner
+	FirstName	"Chad"
+	NickName	"Neglectful"
+	LastName	"Brown"
+	DoB		"1988.07.23"
+	Bio		"Sentenced to 30 years because he failed to plan his prison using the planning mod. His advice to all new wardens: plan your prisons, or else..."
+	BodyType	"3"
+	BodyScale	"1"
+	HeadType	"10
+	SkinColour	"0xfdc97bff"
+	Id		"5029124"
+END
