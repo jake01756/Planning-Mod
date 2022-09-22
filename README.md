@@ -1,7 +1,11 @@
 # Planning Mod
 A mod for Prison Architect that assists in planning rooms.
 
-## Steam Workshop Description
+## Download
+- [Base Game](https://steamcommunity.com/sharedfiles/filedetails/?id=2120075438).
+- 
+
+### Steam Workshop Description
 This mod allows you to place rooms to plan your layout before building the actual foundations. You can find these under the Rooms tab. Please note that in order to plan out DLC rooms, you must install the respsective DLC drop in and load it before the rooms will show up. To access the drop-ins, simply visit the steam workshop page for this mod and click on the pinned discussion titled 'Drop In Links'. This will have all the links to the various drop in mods. The planned rooms have very little requirements, with only the minimium size to assist in planning out your prison.
 
 This mod supports the following DLC expansions:
