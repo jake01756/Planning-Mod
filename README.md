@@ -23,6 +23,7 @@ This mod supports the following DLC expansions:
 - Going Green (5 New Rooms)
 - Second Chances (3 New Rooms)
 - Gangs (3 New Rooms)
+- Cleared for Life
 - Additional Utility Room
 
 NOTE: Do not use these rooms for actual uses, they will not work. Example, the Cell (planned) room will not work as a regular Cell and cannot hold prisoners.
