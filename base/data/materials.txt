@@ -1,0 +1,234 @@
+BEGIN Room
+	Name		UtilityPlan
+	Sprite      UtilityPlan  
+	ToolbarSprite	UtilityPlan
+	BEGIN Requirement Type Object  Id PowerStation  END
+    BEGIN Requirement Type Object  Id WaterPumpStation END
+	BEGIN LikelyObject Id PowerStation END
+    BEGIN LikelyObject Id WaterPumpStation END
+    BEGIN LikelyObject Id Capacitor END
+	BEGIN LikelyObject Id WaterBoiler END
+	BEGIN Requirement Type MinimumSize x 5 y 5 END
+END
+
+BEGIN Room       
+    Name                 CellPlan  
+	Research			 Planning
+	Sprite				 CellPlan
+    BEGIN Requirement Type MinimumSize  x 2  y 3  END
+END
+
+BEGIN Room       
+    Name                 DormPlan 
+	Research			 Planning	
+    BEGIN Requirement Type MinimumSize  x 2  y 3  END
+END
+
+BEGIN Room       
+    Name                 HoldingCellPlan  
+	Research			 Planning
+    BEGIN Requirement Type MinimumSize  x 5  y 5  END
+END
+
+BEGIN Room       
+    Name                 SolitaryPlan
+	Research			 Planning
+	Sprite				 Solitary
+END
+
+BEGIN Room       
+    Name                 CanteenPlan  
+	Research			 Planning
+END
+
+BEGIN Room       
+    Name                 KitchenPlan  
+	Research			 Planning
+END
+
+BEGIN Room       
+    Name                 ShowerPlan
+	Research			 Planning	
+END
+
+BEGIN Room       
+    Name                 YardPlan  
+	Research			 Planning
+    BEGIN Requirement Type MinimumSize  x 5  y 5  END
+END
+
+BEGIN Room       
+    Name                 ExecutionPlan  
+	Research			 Planning
+	rem Research 	Deathrow
+	BEGIN Requirement Type MinimumSize  x 3  y 3  END
+END
+
+BEGIN Room       
+    Name                 WorkshopPlan 
+	Research			 Planning
+    BEGIN Requirement Type MinimumSize  x 5  y 5  END
+END
+
+BEGIN Room       
+    Name                 SecurityPlan  
+	Research			 Planning
+    BEGIN Requirement Type MinimumSize  x 4  y 4  END
+END
+
+BEGIN Room       
+    Name                 OfficePlan
+	Research			 Planning	
+    BEGIN Requirement Type MinimumSize  x 4  y 4  END
+END
+
+BEGIN Room       
+    Name                 MedicalWardPlan  
+	Research			 Planning
+	
+END
+
+BEGIN Room       
+    Name                 MorguePlan 
+	Research			 Planning	
+END
+
+BEGIN Room       
+    Name                 CommonRoomPlan  
+	Research			 Planning
+END
+
+BEGIN Room       
+    Name                 LaundryPlan
+	Research			 Planning
+END
+
+BEGIN Room       
+    Name                 CleaningPlan
+    BEGIN Requirement Type MinimumSize  x 3  y 3  END
+	Research			 Planning
+END
+
+BEGIN Room       
+    Name                 VisitationPlan
+	Research			 Planning
+END
+
+BEGIN Room       
+    Name                 KennelPlan  
+	Research			 Planning
+    BEGIN Requirement Type MinimumSize  x 5  y 5  END
+END
+
+BEGIN Room       
+    Name                 ArmouryPlan
+	Research			 Planning
+END
+
+BEGIN Room       
+    Name                 StaffroomPlan
+	Research			 Planning
+    BEGIN Requirement Type MinimumSize  x 4  y 4  END
+END
+
+BEGIN Room       
+    Name                 LibraryPlan  
+	Research			 Planning
+    BEGIN Requirement Type MinimumSize  x 5  y 5  END
+END
+
+BEGIN Room       
+    Name                 ForestryPlan
+	Research			 Planning
+    BEGIN Requirement Type MinimumSize  x 5  y 5  END
+END
+
+BEGIN Room       
+    Name                 ClassroomPlan
+	Research			 Planning
+    BEGIN Requirement Type MinimumSize  x 5  y 5  END
+END
+
+BEGIN Room       
+    Name                 ChapelPlan
+	Research			 Planning
+    BEGIN Requirement Type MinimumSize  x 6  y 6  END
+END
+
+BEGIN Room       
+    Name                 ParolePlan
+	Research			 Planning
+    BEGIN Requirement Type MinimumSize  x 5  y 5  END
+END
+
+BEGIN Room       
+    Name                 IntakePlan 
+	Research			 Planning
+END
+
+BEGIN Room       
+    Name                 MailPlan
+	Research			 Planning
+    BEGIN Requirement Type MinimumSize  x 5  y 5  END
+END
+
+BEGIN Room       
+    Name                 GymPlan
+	Research			 Planning
+    BEGIN Requirement Type MinimumSize  x 7  y 7  END
+END
+
+BEGIN Room
+    Name                ShopPlan
+	Research			 Planning
+    BEGIN Requirement Type MinimumSize x 4 y 4 END
+END
+
+BEGIN Room
+    Name		FamilyPlan
+	Research			 Planning
+    BEGIN Requirement Type MinimumSize x 4 y 4 END
+    Properties WomenOnly
+END
+
+BEGIN Room
+    Name		NurseryPlan
+	Research			 Planning
+    Properties WomenOnly
+END
+
+
+BEGIN Room
+    Name		MinCellBlockPlan
+	Research	Planning
+END
+
+BEGIN Room
+    Name		MedCellBlockPlan
+	Research	Planning
+END
+
+BEGIN Room
+    Name		MaxCellBlockPlan
+	Research	Planning
+END
+
+
+BEGIN Room
+    Name		SuperCellBlockPlan
+	Research	Planning
+END
+
+BEGIN Room
+    Name		DeathCellBlockPlan
+	Research 	Planning
+END
+
+BEGIN Room
+    Name		ProtectiveCellBlockPlan
+	Research	Planning
+END
+
+
+
+
