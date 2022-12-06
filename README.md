@@ -9,6 +9,9 @@ A mod for Prison Architect that assists in planning rooms.
 - [Second Chances Drop-in](https://steamcommunity.com/sharedfiles/filedetails/?id=2816172605)
 - [Perfect Storm Drop-in](https://steamcommunity.com/sharedfiles/filedetails/?id=2816172666)
 - [Gangs Drop-in](https://steamcommunity.com/sharedfiles/filedetails/?id=2816172243)
+- Free for Life does not require a DLC drop-in.
+- [Undead](https://steamcommunity.com/sharedfiles/filedetails/?id=2898127704)
+- Future Tech Pack does not require a DLC drop-in.
 
 Download the entire collection [here](https://steamcommunity.com/workshop/filedetails/?id=2816179999).
 ***
@@ -23,7 +26,7 @@ This mod supports the following DLC expansions:
 - Going Green (5 New Rooms)
 - Second Chances (3 New Rooms)
 - Gangs (3 New Rooms)
-- Free for Life
+- Undead (1 New Room)
 - Additional Utility Room
 
 NOTE: Do not use these rooms for actual uses, they will not work. Example, the Cell (planned) room will not work as a regular Cell and cannot hold prisoners.
