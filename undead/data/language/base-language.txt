@@ -1,0 +1,2 @@
+room_graveyardplan                           	Graveyard (Planned)
+buildtoolbar_popup_room_graveyardplan       	Plan where to send your executed prisoners.

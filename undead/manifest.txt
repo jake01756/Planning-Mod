@@ -1,0 +1,9 @@
+
+Name                 "Planning mod - Undead"  
+Description          "This mod is designed to work with the parent planning mod, which should have been downloaded by Steam when you installed this mod."  
+IsTranslation        false  
+Author               jake01756  
+Date                 12/05/2022  
+Version              1.000000  
+FileID               F2898127704  
+SteamAuthor          A76561198221778020  
