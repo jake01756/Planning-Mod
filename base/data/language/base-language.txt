@@ -98,14 +98,14 @@ room_meetingplan                         	Meeting Room (Planned)
 buildtoolbar_popup_room_meetingplan	 		Plan where your "safe" place for people to meet will be.
 room_bakeryplan                          	Bakery (Planned)
 buildtoolbar_popup_room_bakeryplan	 		Well, you need to plan a bakery somewhere.
-room_utilityplan						 	Utility Room
+room_utilityplan						 	Utilities
 buildtoolbar_popup_room_utilityplan 		You know, the room where all the high voltage stuff goes and the room that you didn't forget to set to staff only.
-room_mincellblockplan						Minimium Security Cell Block (Planned)
-buildtoolbar_popup_room_mincellblockplan	Plan a minimium security cell block.
+room_mincellblockplan						Minimum Security Cell Block (Planned)
+buildtoolbar_popup_room_mincellblockplan	Plan a minimum security cell block.
 room_medcellblockplan						Medium Security Cell Block (Planned)
 buildtoolbar_popup_room_medcellblockplan	Plan a medium security cell block.
-room_maxcellblockplan						Maximium Security Cell Block (Planned)
-buildtoolbar_popup_room_maxcellblockplan	Plan a maximium security cell block.
+room_maxcellblockplan						Maximum Security Cell Block (Planned)
+buildtoolbar_popup_room_maxcellblockplan	Plan a maximum security cell block.
 room_supercellblockplan						Super Max Security Cell Block (Planned)
 buildtoolbar_popup_room_supercellblockplan	Plan a super max cell block.
 room_deathcellblockplan						Death Row Cell Block (Planned)
@@ -117,9 +117,9 @@ buildtoolbar_popup_room_protectivecellblockplan	Plan a protective custody cell b
 room_trainroomplan							Training Room (Planned)
 buildtoolbar_popup_room_trainroomplan		Plan a place for your staff to train for severe weather events.
 room_weathercenterplan						Weather Centre (Planned)
-buildtoolbar_popup_room_weathercenterplan	Predict the weather before it hapens. Plan a weather centre today!
+buildtoolbar_popup_room_weathercenterplan	Predict the weather before it happens. Plan a weather centre today!
 room_tattooremovalroomplan					Tattoo Removal Room (Planned)	
-buildtoolbar_popup_room_tattooremovalroomplan	Plan where your prisonsers can get their tattoos removed.
+buildtoolbar_popup_room_tattooremovalroomplan	Plan where your prisoners can get their tattoos removed.
 room_fightclubroomplan						Fight Club Room (Planned)
 buildtoolbar_popup_room_fightclubroomplan	According to the Government, this room doesn't exist. But that doesn't mean you can't plan it.
 room_thecageplan							The Cage (Planned)

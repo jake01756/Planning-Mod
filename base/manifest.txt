@@ -2,9 +2,9 @@
 Name                 "Planning mod - Base Game"  
 Description          "This mod allows you to place rooms to plan your layout before building the actual foundations. You can find these under the Rooms tab. Please note that in order to plan out DLC rooms, you must install the respsective DLC drop in and load it before the rooms will show up. To access the drop-ins, simply visit the steam workshop page for this mod and click on the pinned discussion titled 'Drop In Links'. This will have all the links to the various drop in mods. The planned rooms have very little requirements, with only the minimium size to assist in planning out your prison.\r\n\r\nThis mod supports the following DLC expansions:\r\n - Psych Ward (4 New Rooms)\r\n - Island Bound\r\n - Cleared for Transfer\r\n - Going Green (5 New Rooms)\r\n - Second Chances (3 New Rooms)\r\n - Gangs (3 New Rooms) \r\n - Undead (1 New Room) \r\n - Additional Utility Room\r\n\r\nNOTE: Do not use these rooms for actual uses, they will not work. Example, the Cell (planned) room will not work as a regular Cell and cannot hold prisoners.\r\n\r\nOriginal mod here: https://steamcommunity.com/sharedfiles/filedetails/?id=322182716"  
 IsTranslation        false  
-URL					 <https://steamcommunity.com/sharedfiles/filedetails/?id=2120075438>
-Date				 12/05/2022
+URL                  <https://steamcommunity.com/sharedfiles/filedetails/?id=2120075438>  
+Date                 12/05/2022  
 Author               jake01756  
 FileID               F2120075438  
 SteamAuthor          A76561198221778020  
-Version              5.000000
+Version              5.000000  

@@ -1,12 +1,11 @@
 BEGIN Room
 	Name		UtilityPlan
-	Sprite      UtilityPlan  
-	ToolbarSprite	UtilityPlan
+	Sprite      	RoomUtilityPlan  
 	BEGIN Requirement Type Object  Id PowerStation  END
-    BEGIN Requirement Type Object  Id WaterPumpStation END
+    	BEGIN Requirement Type Object  Id WaterPumpStation END
 	BEGIN LikelyObject Id PowerStation END
-    BEGIN LikelyObject Id WaterPumpStation END
-    BEGIN LikelyObject Id Capacitor END
+    	BEGIN LikelyObject Id WaterPumpStation END
+    	BEGIN LikelyObject Id Capacitor END
 	BEGIN LikelyObject Id WaterBoiler END
 	BEGIN Requirement Type MinimumSize x 5 y 5 END
 END
@@ -16,6 +15,12 @@ BEGIN Room
 	Research			 Planning
 	Sprite				 CellPlan
     BEGIN Requirement Type MinimumSize  x 2  y 3  END
+    BEGIN Sprite
+        x 3
+        y 6
+        h 3
+        w 3
+    END
 END
 
 BEGIN Room       

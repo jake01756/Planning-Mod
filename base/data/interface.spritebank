@@ -134,7 +134,7 @@ BEGIN Sprites
     BEGIN "[i 130]"    Name WeatherSnow  x 4  y 32  w 2  h 2  RotateType 0  TopAligned false  END
     BEGIN "[i 131]"    Name WeatherTorrential  x 10  y 32  w 2  h 2  RotateType 0  TopAligned false END
     BEGIN "[i 132]"    Name CellPlan  x 3  y 6  w 3  h 3  RotateType 0  TopAligned false  END
-    BEGIN "[i 133]"    Name UtilityPlan  x 18  y 0  w 3  h 3  RotateType 0  TopAligned false  END
+    BEGIN "[i 133]"    Name RoomUtilityPlan  x 18  y 0  w 3  h 3  RotateType 4  TopAligned false  END
 END
 BEGIN Markers    Size 0  END
 
