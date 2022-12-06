@@ -12,21 +12,21 @@ END
 
 BEGIN Room       
     Name                 CellPlan  
-	Research			 Planning
-	Sprite				 CellPlan
+    Research		Planning
+    Sprite		RoomCellPlan
     BEGIN Requirement Type MinimumSize  x 2  y 3  END
-    BEGIN Sprite
-        x 3
-        y 6
-        h 3
-        w 3
-    END
 END
 
 BEGIN Room       
     Name                 DormPlan 
-	Research			 Planning	
+    Research		Planning	
     BEGIN Requirement Type MinimumSize  x 2  y 3  END
+    BEGIN Sprite
+	x 30  
+	y 6  
+	w 3  
+	h 3
+    END
 END
 
 BEGIN Room       
